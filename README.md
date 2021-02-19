@@ -8,8 +8,8 @@ A CLI tik-tak-toe game made with python.
 python/python3 main.py
 ```
 ## Screenshots
-![Screenshot](SS/screenshot1.png)
-![Screenshot](SS/screenshot2.png)
+![alt text](https://github.com/PrashantMhrzn/Tik-Tac-Toe/blob/main/SS/Screenshot1.png)
+![alt text](https://github.com/PrashantMhrzn/Tik-Tac-Toe/blob/main/SS/Screenshot2.png)
 
 ## License
 [MIT](https://github.com/PrashantMhrzn/Tik-Tac-Toe/blob/main/LICENSE)
